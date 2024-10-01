@@ -1,1 +1,1 @@
-# Trace3_Strategic_Information_Retrieval
+# Trace3 Strategic Information Retrieval
